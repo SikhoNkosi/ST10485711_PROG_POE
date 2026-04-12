@@ -14,3 +14,13 @@ I designed the ShowAsciiArt() method to display colorful ASCII art and a robot m
 Implemented User Input
 
 I added the AskName() method to request the user’s name. If no name is entered, it defaults to “Guest.” This personalization makes the chatbot feel more interactive.
+
+Added Chatbot Responses
+
+I built the ChatLoop() and Respond() methods.
+
+ChatLoop() keeps the conversation running until the user types “exit.”
+
+Respond() interprets user input, matches it to cybersecurity topics, and provides answers.
+
+I also added small talk responses (e.g., “how are you”) to make the bot friendlier.
