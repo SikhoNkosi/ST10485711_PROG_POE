@@ -24,3 +24,15 @@ ChatLoop() keeps the conversation running until the user types “exit.”
 Respond() interprets user input, matches it to cybersecurity topics, and provides answers.
 
 I also added small talk responses (e.g., “how are you”) to make the bot friendlier.
+
+I then Improved UI and Validation
+
+I enhanced usability by:
+
+Adding a commands list (help, topics, tip, exit) so users know what to do.
+
+Creating ShowRandomTip() to provide quick, beginner‑friendly cybersecurity advice.
+
+Improving error handling (e.g., when input is empty or unclear).
+
+Using colors and emojis to make responses more readable and welcoming.
