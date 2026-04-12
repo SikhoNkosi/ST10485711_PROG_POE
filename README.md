@@ -10,3 +10,7 @@ I implemented the VoiceGreeting() method, which attempts to play a greetings.wav
 Added ASCII Art
 
 I designed the ShowAsciiArt() method to display colorful ASCII art and a robot mascot. This gives the chatbot personality and makes the console interface visually engaging.
+
+Implemented User Input
+
+I added the AskName() method to request the user’s name. If no name is entered, it defaults to “Guest.” This personalization makes the chatbot feel more interactive.
