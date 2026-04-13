@@ -36,3 +36,7 @@ Creating ShowRandomTip() to provide quick, beginner‑friendly cybersecurity adv
 Improving error handling (e.g., when input is empty or unclear).
 
 Using colors and emojis to make responses more readable and welcoming.
+
+screenshot of the green tick to show that the CI workflow works
+<img width="1919" height="997" alt="Screenshot 2026-04-13 140811" src="https://github.com/user-attachments/assets/14a17d89-8637-4ed8-8a2e-8f0c267fc5ca" />
+
