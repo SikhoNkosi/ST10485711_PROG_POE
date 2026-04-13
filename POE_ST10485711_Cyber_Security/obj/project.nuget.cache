@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JeEER20fzVM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\POE_ST10485711_Cyber_Security\\POE_ST10485711_Cyber_Security\\POE_ST10485711_Cyber_Security.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
